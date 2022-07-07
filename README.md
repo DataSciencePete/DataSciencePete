@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @DataSciencePete
+- 👋 Hi, I’m @pagrim
 - 👀 I’m interested in applications of machine learning, particularly distributed frameworks like Spark and the applications of ML in finance and cyber security
 - 🌱 I’m currently learning many things :) Recently I developed some node.js apps and I would like to get better at Scala (I'm interested in functional programming)
