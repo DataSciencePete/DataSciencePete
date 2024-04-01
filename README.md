@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pagrim
-- 👀 I'm using MLOps to accelerate deployment of ML models 
-- 🌱 I’m learning many things :) Currently doing Coursera Specialization for Data Structures & Algorithms
+- 👀 I'm a Machine Learning Engineer using MLOps to improve the ML lifecycle 
+- 🌱 I recently completed the Coursera Specialization for Data Structures & Algorithms
 - 🧑‍🎓 Other interests include functional programming, Scala and Spark
