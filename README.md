@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Peter
-- 👀 I'm a Machine Learning Engineer using MLOps to improve the ML lifecycle 
-- 🌱 I recently completed the Coursera Specialization for Data Structures & Algorithms
-- 🧑‍🎓 Other interests include functional programming, Scala and Spark
+- Hi, I’m Peter Grimshaw 👋
+- I'm an MLOps Engineer - I help organisations to deploy Machine Learning in scalable and efficient ways 📈
+- I've completed the Coursera Data Structures & Algorithms Specialization 👨‍🎓
+- I love spending time outdoors, especially cycling and walking 🚴‍♂️
+- Feel free to reach out to me if you're interested in any of those things! ☎️
